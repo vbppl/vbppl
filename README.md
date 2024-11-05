@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a passionate Developer looking to learn new th
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vbppl&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vbppl&layout=compact&theme=radical)
 
 ## 🚀 Projects
 
@@ -29,7 +29,3 @@ Welcome to my GitHub profile! I'm a passionate Developer looking to learn new th
 - Twitter: [@vksbhagat](https://x.com/vksbhagat)
 
 ---
-
-"Code is like humor. When you have to explain it, it’s bad." – *Cory House*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=vbppl&color=blue)
